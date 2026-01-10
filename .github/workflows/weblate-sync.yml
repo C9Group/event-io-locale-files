@@ -13,7 +13,7 @@ jobs:
       - name: Trigger Weblate Repository Maintenance
         run: |
           response=$(curl -s -w "\n%{http_code}" -X POST \
-            "https://localization.c9group.org/api/projects/event-io/repository/" \
+            "https://localization.c9group.org/api/projects/eventio/repository/" \
             -H "Authorization: Token ${{ secrets.WEBLATE_PROJECT_TOKEN }}" \
             -H "Content-Type: application/json" \
             -d '{"operation": "pull"}')
