@@ -25,7 +25,8 @@
     "phone": "Open on Phone",
     "whatsapp": "Connect via WhatsApp",
     "requestAborted": "Request was stopped by user.",
-    "chatSavedToHistory": "Previous chat has been saved to chat history"
+    "chatSavedToHistory": "Previous chat has been saved to chat history",
+    "sources": "Sources"
   },
   "common": {
     "close": "Close",
@@ -229,6 +230,7 @@
   "list": {
     "share": "Share",
     "email": "Email",
+    "readMore": "Read More",
     "emailPlaceholder": "e.g., email@example.com",
     "linkCopied": "Link copied to clipboard!",
     "events": "events",
@@ -321,7 +323,7 @@
   },
   "embed": {
     "copiedSuccess": "Embed code copied to clipboard!",
-    "embedCode": "Embed Code",
+    "embedCode": "Embed",
     "bookmarklet": "Bookmarklet",
     "copyToClipboard": "Copy to clipboard",
     "copy": "Copy"
@@ -399,7 +401,9 @@
     "backToAgents": "Back to Agents",
     "configuration": "Agent Configuration",
     "general": "General",
-    "customization": "Customization",
+    "customization": "Customize",
+    "customizationDescription": "Customize your agent's appearance and behavior",
+    "dataSources": "Data Sources",
     "imageSizeError": "Image size must be less than 1MB",
     "imageTypeError": "Please upload a valid image file (JPEG, PNG, GIF, or WebP)",
     "imageReadError": "Error reading file. Please try again.",
@@ -407,7 +411,11 @@
     "remove": "Remove",
     "uploadImage": "Upload an image (max 1MB, JPEG/PNG/GIF/WebP)",
     "propertyValue": "Property value",
-    "embedCode": "Embed Code",
+    "embedCode": "Embed ",
+    "knowledgeBases": "Knowledge Bases",
+    "knowledgeBasesDescription": "Connect AWS Bedrock Knowledge Bases to enhance your agent with custom knowledge from your data sources.",
+    "knowledgeBaseIds": "Knowledge Base IDs",
+    "knowledgeBasesHint": "Enter comma-separated Knowledge Base IDs (e.g., XXXXXXXXXX, YYYYYYYYYY). The agent will search these knowledge bases to provide context-aware responses.",
     "integrations": "Integrations",
     "integrationsDescription": "Connect your agent to external services and platforms",
     "settings": "Settings",

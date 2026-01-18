@@ -25,7 +25,8 @@
     "phone": "Otvori na telefonu",
     "whatsapp": "Poveži se preko WhatsApp",
     "requestAborted": "Zahtev je zaustavljen od strane korisnika.",
-    "chatSavedToHistory": "Prethodni chat je spremljen u povijest"
+    "chatSavedToHistory": "Prethodni chat je spremljen u povijest",
+    "sources": "Izvori"
   },
   "common": {
     "close": "Zatvori",
@@ -79,6 +80,7 @@
   "list": {
     "share": "Podeli",
     "email": "Email",
+    "readMore": "Pročitaj više",
     "emailPlaceholder": "npr., email@example.com",
     "linkCopied": "Link kopiran u clipboard!",
     "events": "događaji",
@@ -171,7 +173,7 @@
   },
   "embed": {
     "copiedSuccess": "Kod za ugrađivanje kopiran u međuspremnik!",
-    "embedCode": "Kod za ugrađivanje",
+    "embedCode": "Ugradi",
     "bookmarklet": "Bookmarklet",
     "copyToClipboard": "Kopiraj u međuspremnik",
     "copy": "Kopiraj"
@@ -249,7 +251,9 @@
     "backToAgents": "Natrag na agente",
     "configuration": "Konfiguracija agenta",
     "general": "Općenito",
-    "customization": "Prilagodba",
+    "customization": "Prilagodi",
+    "customizationDescription": "Prilagodite izgled i ponašanje vašeg agenta",
+    "dataSources": "Izvori podataka",
     "imageSizeError": "Veličina slike mora biti manja od 1MB",
     "imageTypeError": "Molimo učitajte valjanu slikovnu datoteku (JPEG, PNG, GIF ili WebP)",
     "imageReadError": "Greška pri čitanju datoteke. Molimo pokušajte ponovno.",
@@ -257,7 +261,11 @@
     "remove": "Ukloni",
     "uploadImage": "Učitaj sliku (maks. 1MB, JPEG/PNG/GIF/WebP)",
     "propertyValue": "Vrijednost svojstva",
-    "embedCode": "Kod za ugrađivanje",
+    "embedCode": "Ugradi",
+    "knowledgeBases": "Baze znanja",
+    "knowledgeBasesDescription": "Povežite AWS Bedrock baze znanja za poboljšanje vašeg agenta s prilagođenim znanjem iz vaših izvora podataka.",
+    "knowledgeBaseIds": "ID-ovi baza znanja",
+    "knowledgeBasesHint": "Unesite ID-ove baza znanja odvojene zarezima (npr. XXXXXXXXXX, YYYYYYYYYY). Agent će pretraživati ove baze znanja za kontekstualne odgovore.",
     "integrations": "Integracije",
     "integrationsDescription": "Povežite svog agenta s vanjskim uslugama i platformama",
     "settings": "Postavke",

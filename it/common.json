@@ -25,7 +25,8 @@
     "phone": "Apri su telefono",
     "whatsapp": "Connetti via WhatsApp",
     "requestAborted": "Richiesta interrotta dall'utente.",
-    "chatSavedToHistory": "La chat precedente è stata salvata nella cronologia"
+    "chatSavedToHistory": "La chat precedente è stata salvata nella cronologia",
+    "sources": "Fonti"
   },
   "common": {
     "close": "Chiudi",
@@ -79,6 +80,7 @@
   "list": {
     "share": "Condividi",
     "email": "Email",
+    "readMore": "Leggi di più",
     "emailPlaceholder": "es., email@example.com",
     "linkCopied": "Link copiato negli appunti!",
     "events": "eventi",
@@ -171,7 +173,7 @@
   },
   "embed": {
     "copiedSuccess": "Codice di incorporamento copiato negli appunti!",
-    "embedCode": "Codice di incorporamento",
+    "embedCode": "Incorpora",
     "bookmarklet": "Bookmarklet",
     "copyToClipboard": "Copia negli appunti",
     "copy": "Copia"
@@ -249,7 +251,9 @@
     "backToAgents": "Torna agli agenti",
     "configuration": "Configurazione agente",
     "general": "Generale",
-    "customization": "Personalizzazione",
+    "customization": "Personalizza",
+    "customizationDescription": "Personalizza l'aspetto e il comportamento del tuo agente",
+    "dataSources": "Fonti di dati",
     "imageSizeError": "La dimensione dell'immagine deve essere inferiore a 1MB",
     "imageTypeError": "Carica un file immagine valido (JPEG, PNG, GIF o WebP)",
     "imageReadError": "Errore durante la lettura del file. Per favore riprova.",
@@ -257,7 +261,11 @@
     "remove": "Rimuovi",
     "uploadImage": "Carica immagine (max 1MB, JPEG/PNG/GIF/WebP)",
     "propertyValue": "Valore proprietà",
-    "embedCode": "Codice di incorporamento",
+    "embedCode": "Incorpora",
+    "knowledgeBases": "Basi di conoscenza",
+    "knowledgeBasesDescription": "Collega le basi di conoscenza AWS Bedrock per potenziare il tuo agente con conoscenze personalizzate dalle tue fonti dati.",
+    "knowledgeBaseIds": "ID delle basi di conoscenza",
+    "knowledgeBasesHint": "Inserisci gli ID delle basi di conoscenza separati da virgola (es. XXXXXXXXXX, YYYYYYYYYY). L'agente cercherà in queste basi per fornire risposte contestuali.",
     "integrations": "Integrazioni",
     "integrationsDescription": "Collega il tuo agente a servizi e piattaforme esterne",
     "settings": "Impostazioni",
