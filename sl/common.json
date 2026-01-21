@@ -26,7 +26,8 @@
     "whatsapp": "Poveži prek WhatsApp",
     "requestAborted": "Zahteva je bila prekinjena s strani uporabnika.",
     "chatSavedToHistory": "Prejšnji klepet je bil shranjen v zgodovino",
-    "sources": "Viri"
+    "sources": "Viri",
+    "languageChanged": "Jezik preklopljen na {{language}} glede na vaše sporočilo"
   },
   "common": {
     "close": "Zapri",

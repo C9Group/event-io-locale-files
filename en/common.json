@@ -26,7 +26,8 @@
     "whatsapp": "Connect via WhatsApp",
     "requestAborted": "Request was stopped by user.",
     "chatSavedToHistory": "Previous chat has been saved to chat history",
-    "sources": "Sources"
+    "sources": "Sources",
+    "languageChanged": "Language switched to {{language}} based on your message"
   },
   "common": {
     "close": "Close",

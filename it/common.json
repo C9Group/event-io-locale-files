@@ -26,7 +26,8 @@
     "whatsapp": "Connetti via WhatsApp",
     "requestAborted": "Richiesta interrotta dall'utente.",
     "chatSavedToHistory": "La chat precedente è stata salvata nella cronologia",
-    "sources": "Fonti"
+    "sources": "Fonti",
+    "languageChanged": "Lingua cambiata in {{language}} in base al tuo messaggio"
   },
   "common": {
     "close": "Chiudi",

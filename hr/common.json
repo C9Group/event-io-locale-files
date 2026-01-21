@@ -26,7 +26,8 @@
     "whatsapp": "Poveži se preko WhatsApp",
     "requestAborted": "Zahtev je zaustavljen od strane korisnika.",
     "chatSavedToHistory": "Prethodni chat je spremljen u povijest",
-    "sources": "Izvori"
+    "sources": "Izvori",
+    "languageChanged": "Jezik je promijenjen na {{language}} na temelju vaše poruke"
   },
   "common": {
     "close": "Zatvori",
